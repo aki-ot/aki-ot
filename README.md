@@ -1,4 +1,13 @@
 ## Hi there 👋
+AWS 15-Certifications Holder | Cloud Architect
+## My Tech Stack 🛠️
+### Cloud & IaC
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![CloudFormation](https://img.shields.io/badge/CloudFormation-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![AWS 15-Certifications](https://img.shields.io/badge/AWS-15--Certifications-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+### Languages & Others
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 <!--
 **aki-ot/aki-ot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
